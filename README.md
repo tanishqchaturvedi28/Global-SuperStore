@@ -4,21 +4,21 @@ This project features an interactive Excel dashboard built using the Global Supe
 
 Project Overview
 
-The dataset was cleaned, transformed, and visualized in Microsoft Excel to create a dynamic and user-friendly dashboard. It allows users to explore key business metrics through interactive charts and slicers.
+The dataset was cleaned, transformed, and visualized in Microsoft Excel to create a dynamic and user-friendly dashboard. Users can explore key business metrics through interactive charts and slicers.
 
 Data Cleaning and Preparation
 
-Removed duplicate entries and handled missing values
+✅ Removed duplicate entries and handled missing values
 
-Standardized date formats and text fields
+✅ Standardized date formats and text fields
 
-Created calculated columns (profit %, shipping metrics, etc.)
+✅ Created calculated columns (profit %, shipping metrics, etc.)
 
-Organized the dataset using Excel tables
+✅ Organized the dataset using Excel tables
 
-Applied conditional formatting, filtering, and sorting
+✅ Applied conditional formatting, filtering, and sorting
 
-Used formulas such as XLOOKUP, IF, SUMIFS, DATE functions
+✅ Used formulas such as XLOOKUP, IF, SUMIFS, DATE functions
 
 Dashboard Features
 Key Performance Indicators (KPIs)
@@ -89,14 +89,14 @@ Download the Excel file from this repository
 
 Open it using Microsoft Excel
 
-Use the slicers to explore sales and profit by region or country
+Use slicers to explore sales and profit by region or country
 
 View charts and KPIs for detailed business insights
 
 Future Enhancements
 
-Adding Power Query for automated data refresh
+Add Power Query for automated data refresh
 
-Building a Power BI or Tableau version of the dashboard
+Build a Power BI or Tableau version of the dashboard
 
-Adding drill-down reports for deeper analysis
+Add drill-down reports for deeper analysis
