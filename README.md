@@ -1,8 +1,8 @@
-Global Superstore Excel Dashboard
+**Global Superstore Excel Dashboard**
 
 This project features an interactive Excel dashboard built using the Global Superstore dataset. The dashboard provides insights into sales, profit, shipping cost, customer performance, and order trends across different regions and countries.
 
-Project Overview
+**Project Overview**
 
 The dataset was cleaned, transformed, and visualized in Microsoft Excel to create a dynamic and user-friendly dashboard. Users can explore key business metrics through interactive charts and slicers.
 
@@ -20,7 +20,7 @@ Data Cleaning and Preparation
 
 ✅ Used formulas such as XLOOKUP, IF, SUMIFS, DATE functions
 
-Dashboard Features
+**Dashboard Features**
 Key Performance Indicators (KPIs)
 
 Total Sales
@@ -59,7 +59,7 @@ Trend analysis of orders over time
 
 Relationship between discount and profit
 
-Tools Used
+**Tools Used**
 
 Microsoft Excel
 
@@ -79,11 +79,9 @@ Files Included
 
 Global Superstore Dashboard.xlsx (Excel dashboard)
 
-Dataset file (if included)
+Dataset file 
 
-Screenshots of the dashboard
-
-How to Use
+**How to Use**
 
 Download the Excel file from this repository
 
@@ -92,8 +90,8 @@ Open it using Microsoft Excel
 Use slicers to explore sales and profit by region or country
 
 View charts and KPIs for detailed business insights
-
-Future Enhancements
+**
+Future Enhancements**
 
 Add Power Query for automated data refresh
 
